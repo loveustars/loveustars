@@ -9,7 +9,7 @@
 
 - I’m currently working on [terra-year](https://github.com/loveustars/terra-year)
 
-- I’m currently learning **AUTOSAR** and [AutoPilot](https://github.com/loveustars/AutoPilot)
+- I’m currently learning about **AUTOSAR** and [OpenPilot]([https://github.com/loveustars/AutoPilot](https://github.com/commaai/openpilot))
 
 <p align="left">
 </p>
